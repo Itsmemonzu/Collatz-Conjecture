@@ -1,5 +1,5 @@
 # Collatz-Conjecture
-A simple math problem even greatest mathematician couldn't solve.
+A simple math problem even greatest mathematicians couldn't solve.
 
 Inspiration taken from this [video](https://www.youtube.com/watch?v=094y1Z2wpJg)
 
